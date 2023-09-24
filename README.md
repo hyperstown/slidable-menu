@@ -2,7 +2,7 @@
 
 ## Android-Like Slidable Menu Template
 
-DEMO
+[DEMO](https://hyperstown.github.io/slidable-menu/)
 
 ### Story:
 
